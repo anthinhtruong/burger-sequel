@@ -1,1 +1,1 @@
-# burger-sequel
+# Burger sequel
